@@ -12,6 +12,7 @@ struct SwiftUI_LandMarkApp: App {
     var body: some Scene {
         WindowGroup {
             LandMarkList()
+            // This is the example.
         }
     }
 }
